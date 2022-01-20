@@ -1,5 +1,7 @@
 body {
-    background-color: aqua;
+    background-image: url(/img/adam-kool-ndN00KmbJ1c-unsplash.jpg);
+    background-size: cover;
+    background-color: rgb(137, 197, 197);
 }
 
 .container {
