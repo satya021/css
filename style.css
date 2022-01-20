@@ -1,0 +1,12 @@
+body {
+    background-color: aqua;
+}
+
+.container {
+    background-color: rgb(184, 115, 115);
+    color: white;
+}
+
+.home {
+    background-color: green;
+}
