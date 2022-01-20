@@ -22,6 +22,7 @@ body {
     color: red;
 }
 
-#divred {
+.divred {
     background-color: aquamarine;
+    text-decoration: none;
 }
