@@ -12,3 +12,16 @@ body {
 .home {
     background-color: green;
 }
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.link li a:hover {
+    color: red;
+}
+
+#divred {
+    background-color: aquamarine;
+}

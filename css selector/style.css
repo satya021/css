@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+
+.one,
+h1 {
+    background-color: rgb(104, 104, 172);
+    color: white;
+    border-color: black;
+}
+
+* {
+    margin-top: 1em;
+    padding: 0em;
+}
